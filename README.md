@@ -39,13 +39,13 @@
 ### 2024
 
 - **TIGER: A Generating-Then-Ranking Framework for Practical Python Type Inference** [![arXiv](https://img.shields.io/badge/arXiv-2407.02095-b31b1b.svg)](https://arxiv.org/abs/2407.02095)
-- **Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations [HSTU]** [![arXiv](https://img.shields.io/badge/arXiv-2402.17152-b31b1b.svg)](https://arxiv.org/abs/2402.17152) [![Project](https://img.shields.io/badge/Project-hstu-000000?logo=github)](https://github.com/meta-recsys/generative-recommenders)
+- **[🌟]Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations [HSTU]** [![arXiv](https://img.shields.io/badge/arXiv-2402.17152-b31b1b.svg)](https://arxiv.org/abs/2402.17152) [![Project](https://img.shields.io/badge/Project-hstu-000000?logo=github)](https://github.com/meta-recsys/generative-recommenders)
 
 ### 2023
 
 - **Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation** [![arXiv](https://img.shields.io/badge/arXiv-2311.09049-b31b1b.svg)](https://arxiv.org/abs/2311.09049) [![Project](https://img.shields.io/badge/Project-lc%20rec-000000?logo=github)](https://github.com/RUCAIBox/LC-Rec/)
 - **Recommender Systems with Generative Retrieval** [![arXiv](https://img.shields.io/badge/arXiv-2305.05065-b31b1b.svg)](https://arxiv.org/abs/2305.05065)
-- **Sequence As Genes: An User Behavior Modeling Framework for Fraud Transaction Detection in E-commerce https://dl.acm.org/doi/10.1145/3580305.3599905**
+- **Sequence As Genes: An User Behavior Modeling Framework for Fraud Transaction Detection in E-commerce** https://dl.acm.org/doi/10.1145/3580305.3599905 *(bert-style?)*
 
 
 ---
