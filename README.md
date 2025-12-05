@@ -23,7 +23,7 @@
 
 ### 2025
 
-- **LLaDA-Rec: Discrete Diffusion for Parallel Semantic ID Generation in Generative Recommendation** [![arXiv](https://img.shields.io/badge/arXiv-2511.06254-b31b1b.svg)](https://arxiv.org/abs/2511.06254) [![Project](https://img.shields.io/badge/Project-LLaDA Rec-000000?logo=github)](https://github.com/TengShi-RUC/LLaDA-Rec)
+- **LLaDA-Rec: Discrete Diffusion for Parallel Semantic ID Generation in Generative Recommendation** [![arXiv](https://img.shields.io/badge/arXiv-2511.06254-b31b1b.svg)](https://arxiv.org/abs/2511.06254) [![Project](https://img.shields.io/badge/Project-LLaDA Rec-000000?logo=github)(https://github.com/TengShi-RUC/LLaDA-Rec)]
 - **[🌟] A Survey on Generative Recommendation: Data, Model, and Tasks** [![arXiv](https://img.shields.io/badge/arXiv-2510.27157-b31b1b.svg)](https://arxiv.org/abs/2510.27157) 
 - **DiffGRM: Diffusion-based Generative Recommendation Model** [![arXiv](https://img.shields.io/badge/arXiv-2510.21805-b31b1b.svg)](https://arxiv.org/abs/2510.21805) [![Project](https://img.shields.io/badge/Project-DiffGRM-000000?logo=github)](https://github.com/liuzhao09/DiffGRM)
 - **PANTHER: Generative Pretraining Beyond Language for Sequential User Behavior Modeling**  [![arXiv](https://img.shields.io/badge/arXiv-2510.10102-b31b1b.svg)](https://arxiv.org/abs/2510.10102) [![Project](https://img.shields.io/badge/Project-panther-000000?logo=github)](https://github.com/WeChatPay-Pretraining/PANTHER)
