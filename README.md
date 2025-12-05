@@ -43,7 +43,7 @@
 
 ### 2023
 
-- **Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation** [![arXiv](https://img.shields.io/badge/arXiv-2311.09049-b31b1b.svg)](https://arxiv.org/abs/2311.09049) [![Project](https://img.shields.io/badge/Project-lc rec-000000?logo=github)](https://github.com/RUCAIBox/LC-Rec/)
+- **Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation** [![arXiv](https://img.shields.io/badge/arXiv-2311.09049-b31b1b.svg)](https://arxiv.org/abs/2311.09049) [![Project](https://img.shields.io/badge/Project-lc%20rec-000000?logo=github)](https://github.com/RUCAIBox/LC-Rec/)
 - **Recommender Systems with Generative Retrieval** [![arXiv](https://img.shields.io/badge/arXiv-2305.05065-b31b1b.svg)](https://arxiv.org/abs/2305.05065)
 - **Sequence As Genes: An User Behavior Modeling Framework for Fraud Transaction Detection in E-commerce https://dl.acm.org/doi/10.1145/3580305.3599905**
 
